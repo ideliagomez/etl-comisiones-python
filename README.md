@@ -41,6 +41,9 @@
 
 ```bash
 pip install pandas openpyxl
+```
+
+---
 
 > **Nota sobre los datos**: Los datos utilizados en este proyecto son simulados y no pertenecen ni representan información real de ninguna empresa u organización.
 
